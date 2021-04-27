@@ -1,0 +1,12 @@
+body.colorscheme-dark img.logo {
+	content: url("../images/whiteLogo.png");
+}
+
+body.colorscheme-light img.logo {
+	content: url("../images/blackLogo.png");
+}
+
+a:hover {
+	text-decoration: none;
+	color: #ff1122 !important;
+}
