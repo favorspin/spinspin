@@ -1,5 +1,7 @@
-baseURL = "http://spinspin.dev/"
+baseURL = "https://spinspin.dev/"
 title = "SpinRodriguez"
+headerTitle1 = "Spin"
+headerTitle2 = "Rodriguez"
 theme = "hugo-coder"
 languageCode = "en-us"
 defaultContentLanguage = "en"

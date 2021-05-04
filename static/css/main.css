@@ -10,3 +10,11 @@ a:hover {
 	text-decoration: none;
 	color: #ff1122 !important;
 }
+
+body.colorscheme-dark .navigation a .lastname {
+	color: #636363;
+}
+
+body.colorscheme-light .navigation a .lastname {
+	color: #919191;
+}
