@@ -6,7 +6,7 @@ aliases = ["about-us"]
 author = "Spin Rodriguez"
 +++
 
-I've been curious my whole life. Driven by a need to know, I've found myself bouncing of the walls of new hobbies and interests like a pinball finding it's staggered path through the bumpers. From software development to Ham Radio, poetry to photography - I've spent a great majority of my life learning anything that sparked my inquisitive mind. And it's that same curiosity that has guided the path through my career.
+I've been curious my whole life. Driven by a need to know, I've found myself bouncing off the walls of new hobbies and interests like a pinball finding it's staggered path through the bumpers. From software development to Ham Radio, poetry to photography - I've spent a great majority of my life learning anything that sparked my inquisitive mind. And it's that same curiosity that has guided the path through my career.
 
 <img src="/images/scissor_kick.jpg" style="float:left;padding:10px;width:400px;">Early on, I thought I’d end up in the music business. I grew up in and around recording studios and concert stages, playing in bands or running cables - naturally, I was certain of the path I was on. And for a while that was my reality. After high-school and a stint in the military, I moved to Florida, went to college, and ran a recording studio. But what started as fun, quickly turned sour as I, increasingly, had to make the choice to work with projects that could pay the rent over working with musicians I enjoyed the most. It wasn’t all bad though, and the business was fairly successful. But the experience taught me a lot about passion, and what it means when someone says "do what you love." 
 
