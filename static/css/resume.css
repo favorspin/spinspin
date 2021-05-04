@@ -1,3 +1,11 @@
+body.colorscheme-dark img.inits {
+	content: url("../images/whiteInits.png");
+}
+
+body.colorscheme-light img.inits {
+	content: url("../images/blackInits.png");
+}
+
 .resume {
 	line-height: 150%;
 	margin-top: -10px;
