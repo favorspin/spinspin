@@ -13,8 +13,11 @@ and storage, through analytics.
 ||||||
 ## Experience
 
+**Data Engineer III - onXmaps**  
+*Bozeman, MT (Remote) | 2021 - Current*
+
 **Data Engineer - CDK (formerly Square Root)**  
-*Austin, TX (Remote) | 2020 - Current*
+*Austin, TX (Remote) | 2020 - 2021*
 * Integrated Square Root’s data pipeline with CDK’s existing data processes.
 * Created a new, generalized, flow-based pipeline to handle new clients without having to create entirely new methods.
 * Instrumental in the creation of dataframes and integration of sources to power new machine learning and data science opportunities.
